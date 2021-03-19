@@ -1,0 +1,28 @@
+{
+    "name": "graasp-app-starter-react",
+    "version": "0.6.0",
+    "private": true,
+    "author": "EPFL",
+    "contributors": [
+      "Juan Carlos Farah",
+      "Hassan Abdul Ghaffar",
+      "Mashkour Abdel Aziz"
+    ],
+    "homepage": ".",
+    "license": "MIT",
+    "dependencies": {
+    },
+    "scripts": {
+      "build": "echo 'build'"
+    },
+    "release": {
+      "analyzeCommits": "conventional"
+    },
+    "browserslist": [
+      ">0.2%",
+      "not dead",
+      "not ie <= 11",
+      "not op_mini all"
+    ]
+  }
+  
